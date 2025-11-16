@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 5.42.1\n"
 "POT-Creation-Date: 2025-11-14 18:55:34\n"
-"PO-Revision-Date: 2025-11-16 17:59+0100\n"
+"PO-Revision-Date: 2025-11-16 18:05+0100\n"
 "Last-Translator: Sandro Mattei <sandro.mattei@proton.me>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -366,7 +366,7 @@ msgid "Create from ODT..."
 msgstr "Crea da ODT"
 
 msgid "Created {0} on {1}."
-msgstr "Creato {0} il {1}."
+msgstr "{0} creato {1}."
 
 msgid "Cross reference"
 msgstr "Riferimento incrociato"
@@ -1596,7 +1596,7 @@ msgid "years old"
 msgstr "anni di età"
 
 msgid "{0} (last saved on {1})"
-msgstr "{0} (ultimo salvataggio il {1})"
+msgstr "{0} (ultimo salvataggio {1})"
 
 msgid "{0} does not exist."
 msgstr "{0} non esiste."
@@ -1609,4 +1609,3 @@ msgstr "{0} parti, {1} capitoli, {2} sezioni, {3} parole"
 
 msgid "{} already exists."
 msgstr "{} esiste già."
-
